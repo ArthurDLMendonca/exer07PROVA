@@ -1,0 +1,7 @@
+body {
+    background-image: url("IMGGG/TELA.jpg");
+    background-repeat: no-repeat, repeat-x;
+    background-position: top right, center;
+    background-size: cover;
+    COLOR: WHITE
+  }
